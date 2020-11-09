@@ -11,8 +11,6 @@ none
 - if/elif/else
 - input with integers
 
----
-
 ## Teaching
 
 Import the random library. There are a few ways to do this. Any of the following will work (note we only need the randint function):
